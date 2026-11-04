@@ -1,0 +1,2 @@
+# hakina
+Levantine Arabic Translator
