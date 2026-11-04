@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		71BE551A305F30DC00864836 /* Exceptions for "texttest" folder in "Hakina" target */ = {
+		71BE551A305F30DC00864836 /* Exceptions for "Hakina" folder in "Hakina" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,12 +21,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		000000000000000000000010 /* texttest */ = {
+		000000000000000000000010 /* Hakina */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				71BE551A305F30DC00864836 /* Exceptions for "texttest" folder in "Hakina" target */,
+				71BE551A305F30DC00864836 /* Exceptions for "Hakina" folder in "Hakina" target */,
 			);
-			path = texttest;
+			path = Hakina;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -43,7 +43,7 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
-				000000000000000000000010 /* texttest */,
+				000000000000000000000010 /* Hakina */,
 				000000000000000000000020 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,7 +70,7 @@
 			buildRules = (
 			);
 			fileSystemSynchronizedGroups = (
-				000000000000000000000010 /* texttest */,
+				000000000000000000000010 /* Hakina */,
 			);
 			name = Hakina;
 			productName = MyApp;
